@@ -10,8 +10,8 @@
 <p align="center">
   <a href="#tela-inicial">Tela Inicial</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#proffy-lista">Buscar proffy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#favorito-proffy">Proffy favoritos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#proffy-cadastro">Cadastro de Proffy</a>
+  <a href="#proffy-favorito">Proffy favoritos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#cadastro-de-proffy">Cadastro de Proffy</a>
 </p>
 
 
